@@ -1,8 +1,8 @@
 {
-  "name": "appium/php-client-codeception",
+  "name": "walterwhites/php-client-codeception",
   "type": "appium-php",
   "description": "PHP client for Selenium 3.0/Appium 1.0",
-  "keywords": ["appium", "phpunit", "selenium"],
+  "keywords": ["appium", "phpunit", "selenium", "codeception"],
   "homepage": "http://github.com/appium/appium-php",
   "license": "Apache-2.0",
   "minimum-stability": "dev",
