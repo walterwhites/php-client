@@ -1,5 +1,5 @@
 {
-  "name": "appium/php-client",
+  "name": "appium/php-client-codeception",
   "type": "appium-php",
   "description": "PHP client for Selenium 3.0/Appium 1.0",
   "keywords": ["appium", "phpunit", "selenium"],
@@ -8,23 +8,8 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "authors": [{
-    "name": "Isaac Murchie",
-    "email": "isaac@saucelabs.com",
-    "homepage": "http://www.saucelabs.com",
-    "role": "Lead"
+    "name": "Flo",
   }],
   "require": {
   },
-  "support": {
-    "email": "help@saucelabs.com",
-    "irc": "irc://irc.freenode.org/saucelabs"
-  },
-  "autoload": {
-        "classmap": [
-            "PHPUnit/"
-        ]
-    },
-    "include-path": [
-        ""
-    ]
 }
