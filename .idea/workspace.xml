@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88ebe8a0-e1f6-47fc-b74f-97f0b13c5751" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php-client-codeception.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php-client-codeception.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
@@ -74,11 +72,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601667393143</updated>
-      <workItem from="1601667394240" duration="3094000" />
+      <workItem from="1601667394240" duration="3980000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="527" y="215" width="670" height="676" key="search.everywhere.popup" timestamp="1601672357685">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="527" y="215" width="670" height="676" key="search.everywhere.popup/0.23.1680.961@0.23.1680.961" timestamp="1601672357685" />
   </component>
 </project>
