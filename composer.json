@@ -14,10 +14,6 @@
     "php": ">=7.3",
     "phpunit/phpunit-selenium": ">=3.0.2"
   },
-  "support": {
-    "email": "help@saucelabs.com",
-    "irc": "irc://irc.freenode.org/saucelabs"
-  },
   "autoload": {
     "classmap": [
       "PHPUnit/"
